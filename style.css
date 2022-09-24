@@ -1,0 +1,262 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body,
+html {
+  min-height: 100vh;
+}
+
+.container {
+}
+
+/* div-top css */
+
+.top-div {
+  height: 50vh;
+}
+
+.top-div-left-section {
+  width: 50%;
+  height: 50vh;
+  float: left;
+}
+
+.top-div-left-section-top-section {
+  height: 40vh;
+}
+
+.top-div-left-section-top-section-left-section {
+  height: 40vh;
+  width: 40%;
+  float: left;
+}
+
+.top-div-left-section-top-section-left-section-top-section {
+  height: 20vh;
+  background-color: black;
+}
+
+.top-div-left-section-top-section-left-section-bottom-section {
+  height: 20vh;
+  background-color: brown;
+}
+
+.top-div-left-section-top-section-middle-section {
+  width: 20%;
+  height: 40vh;
+  background-color: burlywood;
+  float: left;
+  overflow: auto;
+}
+
+.top-div-left-section-top-section-right-section {
+  width: 40%;
+  height: 40vh;
+  overflow: auto;
+}
+
+.top-div-left-section-top-section-right-section-top-section {
+  height: 20vh;
+  background-color: black;
+}
+
+.top-div-left-section-top-section-right-section-bottom-section {
+  height: 20vh;
+  background-color: brown;
+}
+
+.top-div-right-section {
+  width: 50%;
+  height: 50vh;
+  overflow: auto;
+}
+
+.top-div-right-section-left-section {
+  width: 25%;
+  height: 50vh;
+  background-color: thistle;
+  float: left;
+}
+
+.top-div-right-section-right-section {
+  width: 75%;
+  height: 50vh;
+  background-color: aquamarine;
+  overflow: auto;
+}
+.top-div-right-section-right-section-top-section {
+  width: 100%;
+  height: 10vh;
+  background-color: black;
+}
+
+.top-div-right-section-right-section-bottom-section {
+  height: 40vh;
+  background-color: seagreen;
+}
+
+.top-div-right-section-right-section-bottom-section-left-section {
+  width: 50%;
+  height: 40vh;
+  float: left;
+}
+
+.top-div-right-section-right-section-bottom-section-left-section-left-section {
+  width: 50%;
+  height: 40vh;
+  background-color: seagreen;
+  float: left;
+}
+
+.top-div-right-section-right-section-bottom-section-left-section-right-section {
+  width: 50%;
+  height: 20vh;
+  background-color: palevioletred;
+  overflow: auto;
+}
+
+.top-div-right-section-right-section-bottom-section-right-section {
+  width: 50%;
+  height: 40vh;
+  overflow: auto;
+}
+
+.top-div-right-section-right-section-bottom-section-right-section-top-section {
+  height: 20vh;
+  background-color: blanchedalmond;
+}
+
+.top-div-right-section-right-section-bottom-section-right-section-bottom-section {
+  height: 20vh;
+  background-color: brown;
+}
+
+.top-div-left-section-bottom-section {
+  height: 10vh;
+  background-color: tomato;
+}
+
+/* div-bottom css */
+
+.bottom-div {
+  height: 50vh;
+}
+
+.bottom-div-left-section {
+  width: 50%;
+  height: 50vh;
+  background-color: sandybrown;
+  float: left;
+}
+
+.bottom-div-left-section-top-section {
+  height: 20vh;
+}
+
+.bottom-div-left-section-top-section-left-section {
+  width: 35%;
+  height: 20vh;
+  background-color: cornflowerblue;
+  float: left;
+}
+
+.bottom-div-left-section-top-section-middle-section {
+  width: 30%;
+  height: 20vh;
+  background-color: cadetblue;
+  float: left;
+  overflow: auto;
+}
+
+.bottom-div-left-section-top-section-bottom-section {
+  width: 35%;
+  height: 20vh;
+  background-color: sandybrown;
+  overflow: auto;
+}
+
+.bottom-div-left-section-middle-section {
+  height: 10vh;
+  background-color: brown;
+}
+
+.bottom-div-left-section-bottom-section {
+  height: 20vh;
+}
+
+.bottom-div-left-section-bottom-section-left-section {
+  width: 50%;
+  height: 20vh;
+  background-color: aqua;
+  float: left;
+}
+
+.bottom-div-left-section-bottom-section-right-section {
+  width: 50%;
+  height: 20vh;
+  background-color: darkblue;
+  overflow: auto;
+}
+
+.bottom-div-right-section {
+  width: 50%;
+  height: 50vh;
+  background-color: steelblue;
+  overflow: auto;
+}
+
+.bottom-div-right-section-left-section {
+  width: 80%;
+  height: 50vh;
+  float: left;
+}
+
+.bottom-div-right-section-right-section {
+  width: 20%;
+  height: 50vh;
+  background-color: crimson;
+  overflow: auto;
+}
+
+.bottom-div-right-section-left-section-top-section {
+  height: 45vh;
+  background-color: olivedrab;
+}
+
+.bottom-div-right-section-left-section-top-section-left-section {
+  width: 70%;
+  height: 45vh;
+  float: left;
+}
+
+.bottom-div-right-section-left-section-top-section-left-section-top-section {
+  height: 22.5vh;
+  background-color: chocolate;
+}
+
+.bottom-div-right-section-left-section-top-section-left-section-bottom-section {
+  height: 22.5vh;
+  background-color: sandybrown;
+}
+
+.bottom-div-right-section-left-section-top-section-middle-section {
+  width: 20%;
+  height: 45vh;
+  background-color: darkgoldenrod;
+  float: left;
+  overflow: auto;
+}
+
+.bottom-div-right-section-left-section-top-section-right-section {
+  width: 10%;
+  height: 45vh;
+  background-color: darkkhaki;
+  overflow: auto;
+}
+
+.bottom-div-right-section-left-section-bottom-section {
+  height: 5vh;
+  background-color: black;
+}
